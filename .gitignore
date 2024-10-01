@@ -1,0 +1,78 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.env
+*.venv
+
+# macOS system files
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Compiled source
+*.class
+*.so
+*.dll
+*.exe
+*.o
+*.obj
+
+# Python Byte-compiled files
+*.py[cod]
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+
+# VS Code settings folder
+.vscode/
+.history/
+
+# IDE settings
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# JetBrains IDEs
+/.idea/
+*.iml
+out/
