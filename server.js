@@ -13,10 +13,10 @@ const upload = multer();
 
 // Database connection
 const pool = new Pool({
-  user: 'postgres',
+  user: 'user',
   host: 'localhost',
   database: 'postgres',
-  password: 'vethathiri',
+  password: 'password',
   port: 5432,
 });
 
